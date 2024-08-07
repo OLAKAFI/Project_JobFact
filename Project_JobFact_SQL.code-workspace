@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../PostgreSQL_Project"
+		},
+		{
+			"path": "../LUKE SQL/csv_files"
+		},
+		{
+			"path": "../LUKE SQL/sql_load"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_practise",
+				"database": "test_db",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "job_analysis_project",
+				"database": "job_analysis_db",
+				"username": "postgres"
+			}
+		]
+	}
+}
