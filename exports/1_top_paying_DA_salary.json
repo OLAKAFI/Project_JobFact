@@ -1,0 +1,72 @@
+[
+  {
+    "company": "Mantys",
+    "job_country": "India",
+    "salary_year_avg": "650000.0",
+    "job_health_insurance": false,
+    "job_posted_date": "2023-02-20 15:13:33"
+  },
+  {
+    "company": "Meta",
+    "job_country": "United States",
+    "salary_year_avg": "336500.0",
+    "job_health_insurance": false,
+    "job_posted_date": "2023-08-23 12:04:42"
+  },
+  {
+    "company": "AT&T",
+    "job_country": "United States",
+    "salary_year_avg": "255829.5",
+    "job_health_insurance": true,
+    "job_posted_date": "2023-06-18 16:03:12"
+  },
+  {
+    "company": "Pinterest Job Advertisements",
+    "job_country": "United States",
+    "salary_year_avg": "232423.0",
+    "job_health_insurance": false,
+    "job_posted_date": "2023-12-05 20:00:40"
+  },
+  {
+    "company": "Uclahealthcareers",
+    "job_country": "United States",
+    "salary_year_avg": "217000.0",
+    "job_health_insurance": false,
+    "job_posted_date": "2023-01-17 00:17:23"
+  },
+  {
+    "company": "SmartAsset",
+    "job_country": "United States",
+    "salary_year_avg": "205000.0",
+    "job_health_insurance": true,
+    "job_posted_date": "2023-08-09 11:00:01"
+  },
+  {
+    "company": "Inclusively",
+    "job_country": "United States",
+    "salary_year_avg": "189309.0",
+    "job_health_insurance": false,
+    "job_posted_date": "2023-12-07 15:00:13"
+  },
+  {
+    "company": "Motional",
+    "job_country": "United States",
+    "salary_year_avg": "189000.0",
+    "job_health_insurance": false,
+    "job_posted_date": "2023-01-05 00:00:25"
+  },
+  {
+    "company": "SmartAsset",
+    "job_country": "United States",
+    "salary_year_avg": "186000.0",
+    "job_health_insurance": true,
+    "job_posted_date": "2023-07-11 16:00:05"
+  },
+  {
+    "company": "Get It Recruit - Information Technology",
+    "job_country": "United States",
+    "salary_year_avg": "184000.0",
+    "job_health_insurance": true,
+    "job_posted_date": "2023-06-09 08:01:04"
+  }
+]
